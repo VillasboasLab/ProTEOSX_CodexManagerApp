@@ -1,3 +1,18 @@
+# Project Development Data Files
+Data/*
+ETL_*
+
+# RShiny deployment
+rsconnect/*
+
+# Other Executables
+*.exe
+*.def
+*.dll
+
+# MacOS Navigation
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
